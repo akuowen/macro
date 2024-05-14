@@ -1,0 +1,13 @@
+{
+    "rust-analyzer.cargo.buildScripts.invocationLocation": "workspace",
+    "rust-analyzer.cargo.buildScripts.overrideCommand": null,
+    "rust-analyzer.cargo.buildScripts.useRustcWrapper": false,
+    "rust-analyzer.cargo.sysrootQueryMetadata": true,
+    "yaml.schemas": {},
+    "remote.WSL.debug": true,
+    "typescript.tsserver.watchOptions": {
+
+    },
+    "rust-analyzer.cargo": "/home/akuowen/.cargo"
+
+}
